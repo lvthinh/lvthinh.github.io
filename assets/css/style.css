@@ -776,12 +776,14 @@ main {
     border-radius: 5px;
 
 }
+
+
 .client-post-date{
-background: rgb(2,0,36);
-background: -moz-linear-gradient(rgba(0,123,255,1) 100%);
-background: -webkit-linear-gradient(rgba(0,123,255,1) 100%);
-background: linear-gradient(rgba(0,123,255,1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endColorstr="#007bff",GradientType=1);
+  background: rgb(2,0,36);
+  background: -moz-linear-gradient(rgb(135, 144, 152) 100%);
+  background: -webkit-linear-gradient(rgba(0,123,255,1) 100%);
+  background: linear-gradient(rgb(89 103 118) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endColorstr="#007bff",GradientType=1);
 }
 
 .client-post-date p{
@@ -1782,6 +1784,8 @@ textarea.form-input::-webkit-resizer { display: none; }
     margin: auto;
   }
 
+  
+
 
 
   /**
@@ -1836,7 +1840,11 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .project-list { grid-template-columns: repeat(1, 1fr); }
 
-
+  .year-heading{
+    margin:1.2rem 0 0.4rem;
+    font-size:1.3rem;
+    font-weight:600;
+  }
 
   /**
    * BLOG
