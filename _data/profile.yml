@@ -31,9 +31,7 @@ short_bio: >-
     I'm pursuing a Ph.D. in Computer Science at North Carolina State University, advised by Dr. <a href="https://jianqing-liu.github.io/index.html target="_blank"">Jianqing Liu</a>. 
     My research focuses on quantum sensing, quantum networking, and the design of quantum algorithms for combinatorial problems. Along the way, I have received the Outstanding PhD Student Award and student travel grants from the National Science Foundation (NSF).
   </p>
-portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+portrait_url: /assets/images/photos/profile.png
 
 education:
 - name: North Carolina State University
