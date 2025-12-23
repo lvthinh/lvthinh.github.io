@@ -1,0 +1,14 @@
+---
+show: true
+width: 5
+date: 2020-01-12 00:01:00 +0800
+group: Volunteer and Others
+---
+<div>
+    <img data-src="{{ 'assets/images/etc/LANL25.JPG' | relative_url }}" class="lazy w-100 rounded-xl" src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top">
+    <div class="card-body">
+        <p class="card-text">
+            LANL Quantum Computing Summer School 2025
+        </p>
+  </div>
+</div>
