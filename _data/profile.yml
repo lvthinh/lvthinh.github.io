@@ -9,7 +9,7 @@ positions:
 
 
 email: "tvle2@ncsu.edu"
-# cv_link: link-to-your-cv-file
+cv_link: https://drive.google.com/file/d/1UzRTJXdV30iYzm3hk6XFzUgsvszwQ2fC/view?usp=sharing
 gscholar: s6X7SQAAAAJ  # This is an example, replace it with your own Google Scholar ID
 # github: your_github_id
 # twitter: your_twitter_id  # Do not include the '@' symbol
@@ -46,6 +46,10 @@ education:
   date: Aug. 2017 - Aug. 2021
 
 # experience:
+# - name: Los Alamos National Laboratory
+#   logo: /assets/images/badges/lanl.png
+#   position: Quantum Computing Summer School Fellow
+#   date: Jun. 2025 - Aug. 2025
 # - name: Peking University
 #   logo: /assets/images/badges/PKU_red.png
 #   position: Research Intern
@@ -64,5 +68,5 @@ awards:
   date: 2023
 - name: KSU Outstanding Ph.D. Student – Research Award
   date: 2023
-- name: UET Dean’s list scholarships (6/8 semesters, $4000) 
+- name: UET-FIT Dean’s list scholarships (6/8 semesters, $4000) 
   date: 2017-2021
