@@ -30,5 +30,7 @@ date: 2024-01-12 00:01:00 +0800
         <li>Reviewer, IEEE Transactions on Communications</li>
         <li>Reviewer, Elsevier Computer Network</li>
         <li>Reviewer, IEEE Journal on Selected Areas in Communications</li>
+        <li>Reviewer, IEEE Transactions on Network Science and Engineering</li>
+        <li>Reviewer, IEEE Transactions on Quantum Engineering</li>
     </ul>
 </div>
